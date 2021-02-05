@@ -6,10 +6,10 @@ In this project I just make a Football Live Score App using Flutter.
 ### Go to https://www.api-football.com/ and grab Your API
 
 ## Feature of this Repository
-#### - Awesome UI design
-#### - Fetch data from the football API.
-#### - Save the fetched data in Firebase Real-Time Database.
-#### - Sate Management with Getx
+#### - [Awesome UI design]
+#### - [Fetch data from the football API.]
+#### - [Save the fetched data in Firebase Real-Time Database.]
+#### - [Sate Management with Getx.]
  
 A few resources to get you started if this is your first Flutter project:
 
