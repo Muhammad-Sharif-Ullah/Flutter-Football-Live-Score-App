@@ -20,8 +20,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://github.com/Muhammad-Sharif-Ullah/Flutter-Football-Live-Score-App/blob/main/UI/loading.jpg" width="600" height="800">
-<img src="https://github.com/Muhammad-Sharif-Ullah/Flutter-Football-Live-Score-App/blob/main/UI/after_fetch_data.jpg" width="600" height="800">
-//![Loading UI](https://github.com/Muhammad-Sharif-Ullah/Flutter-Football-Live-Score-App/blob/main/UI/loading.jpg?raw=true | width=50)
-//![Data_UI](https://github.com/Muhammad-Sharif-Ullah/Flutter-Football-Live-Score-App/blob/main/UI/after_fetch_data.jpg?raw=true | width=50) 
+<img src="https://github.com/Muhammad-Sharif-Ullah/Flutter-Football-Live-Score-App/blob/main/UI/loading.jpg" width="600" height="800"> <img src="https://github.com/Muhammad-Sharif-Ullah/Flutter-Football-Live-Score-App/blob/main/UI/after_fetch_data.jpg" width="600" height="800">
 
